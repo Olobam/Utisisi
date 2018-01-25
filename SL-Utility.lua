@@ -84,7 +84,7 @@ end
 
 class 'Humanizer'
 
-function Humanizer:__init()
+function Humani1zer:__init()
 
 self.bCount = 0
 self.bCount1 = 0
@@ -176,7 +176,7 @@ function Humanizer:Draw()
 end
 
 
-class 'Reallifeinfo'
+class 'Reall1ifeinfo'
 
 function Reallifeinfo:__init()
 	SLU:Menu("Date", "|SL| Real life info")
@@ -263,7 +263,7 @@ function AutoLevel:Do()
 end
 
 
-class 'SkinChanger'
+class 'SkinCh1anger'
 
 function SkinChanger:__init()
 
