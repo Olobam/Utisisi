@@ -21,16 +21,16 @@ Callback.Add("Load", function()
 		Activator()
 	end
 	if SLU.Load.LSK:Value() then
-		SkinChanger()
+		1SkinChanger()
 	end
 	if SLU.Load.LAL:Value() then
 		AutoLevel()
 	end
 	if SLU.Load.LH:Value() then
-		Humanizer()
+		1Humanizer()
 	end
 	if SLU.Load.LRLI:Value() then 
-		Reallifeinfo()
+		1Reallifeinfo()
 	end
    SLOrbc()
 end)
