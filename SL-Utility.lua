@@ -20,17 +20,8 @@ Callback.Add("Load", function()
 	if SLU.Load.LA:Value() then
 		Activator()
 	end
-	if SLU.Load.LSK:Value() then
-		
-	end
 	if SLU.Load.LAL:Value() then
 		AutoLevel()
-	end
-	if SLU.Load.LH:Value() then
-		
-	end
-	if SLU.Load.LRLI:Value() then 
-
 	end
    SLOrbc()
 end)
